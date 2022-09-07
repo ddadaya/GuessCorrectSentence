@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1032789088667",
+    "firebase_url": "https://severinov-cb2f8-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "severinov-cb2f8",
+    "storage_bucket": "severinov-cb2f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032789088667:android:9ad39929cd644e6d04693e",
+        "android_client_info": {
+          "package_name": "com.example.severinov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032789088667-dl3db6e45rbkr4jrn2cvrjt48d63q2ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxT6-pN2NXjrxvsT3CPXyl4ERVwBCnND0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032789088667-dl3db6e45rbkr4jrn2cvrjt48d63q2ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
